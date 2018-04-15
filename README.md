@@ -1,4 +1,4 @@
-# practiceprojects
+# Practice Projects
 
 ## Individual project
 ### Building your own analytics dashboard components
