@@ -1,6 +1,6 @@
 # practiceprojects
 
-## Single project
+## Individual project
 ### Building your own analytics dashboard components
   * create your own repo local and GitHub
   * add me to GitHub repo
